@@ -11,4 +11,4 @@
 export MODULEPATH=/apps/Compilers/modules-3.2.10/Debug-Build/Modules/3.2.10/modulefiles/
 
 module load Framework/Matlab2016b
-matlab -nodisplay -nosplash < /home/users/mmisiura1/Oasis_run10.m
+matlab -nodisplay -nosplash < /home/users/mmisiura1/Oasis_run.m
